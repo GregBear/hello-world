@@ -7,7 +7,7 @@
 
 require_once 'dbheader.php';
 
-
+$test=1
 
 $model = new Model($mysqli);
 $view = new View();
